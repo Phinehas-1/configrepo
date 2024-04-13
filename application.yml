@@ -15,4 +15,4 @@ spring:
                             packages: "*"
 app:
     messaging:
-        topic: my-app-topic
+        topic: topic-one
