@@ -1,4 +1,3 @@
-author:
-    name: Phinehas
-    status: Active
-    role: Software Engineer
+app:
+    messaging:
+        topic: my-app-topic
